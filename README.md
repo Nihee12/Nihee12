@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### About me:
 
-My name is Niheera and I'm a Web developer. I'm here on GitHub to:
+My name is Niheera and I'm a Full Stack Developer. I'm here on GitHub to:
 
 - 💻 I’m currently learning Full Stack Development 🚀.
 
